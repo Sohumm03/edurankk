@@ -1,0 +1,162 @@
+[
+  {
+    "id": "cb4936a1-d3fc-4a37-834c-cb786520b15e",
+    "faculty_name": "Chaitali Isal",
+    "subject": "EVS",
+    "department": "Information Technology",
+    "semester": "Semester III",
+    "division": "Division A",
+    "initials": "CI",
+    "created_at": "2026-10-10T09:26:09.000+00:00"
+  },
+  {
+    "id": "a4ae68a7-4386-4d7c-9f1a-a4422e1ea577",
+    "faculty_name": "Dr. Kiran Deshpande",
+    "subject": "AT",
+    "department": "Information Technology",
+    "semester": "Semester III",
+    "division": "Division A",
+    "initials": "DKD",
+    "created_at": "2026-10-10T09:26:09.000+00:00"
+  },
+  {
+    "id": "dab7f49e-999b-4898-8a2a-5d75bb88e212",
+    "faculty_name": "Prof. Anagha Aher",
+    "subject": "ADSA",
+    "department": "Information Technology",
+    "semester": "Semester III",
+    "division": "Division A",
+    "initials": "PAA",
+    "created_at": "2026-10-10T09:26:09.000+00:00"
+  },
+  {
+    "id": "d28bd7ea-9579-410a-9f7c-bbe5cce31775",
+    "faculty_name": "Prof. Charul Singh",
+    "subject": "DBMS",
+    "department": "Information Technology",
+    "semester": "Semester III",
+    "division": "Division A",
+    "initials": "C",
+    "created_at": "2026-10-10T09:26:09.000+00:00"
+  },
+  {
+    "id": "2f8eb396-3fb0-4473-b62f-403f23ddaf3a",
+    "faculty_name": "Prof. Geetanjali Kalme",
+    "subject": "SQL lab",
+    "department": "Information Technology",
+    "semester": "Semester III",
+    "division": "Division A",
+    "initials": "GK",
+    "created_at": "2026-10-11T16:40:46.000+00:00"
+  },
+  {
+    "id": "59445a48-8e64-4a66-967b-57934badefad",
+    "faculty_name": "Prof. Pooja Chavan",
+    "subject": "MATHS-1",
+    "department": "Information Technology",
+    "semester": "Semester III",
+    "division": "Division A",
+    "initials": "PPC",
+    "created_at": "2026-10-10T09:26:09.000+00:00"
+  },
+  {
+    "id": "1f3b1a65-5a54-4711-b4a5-6dd2329b6400",
+    "faculty_name": "Prof. Rujata Chaudhari",
+    "subject": "FSJP",
+    "department": "Information Technology",
+    "semester": "Semester III",
+    "division": "Division A",
+    "initials": "PRC",
+    "created_at": "2026-10-10T09:26:09.000+00:00"
+  },
+  {
+    "id": "1e786af9-4682-4eac-b7c5-a636a0636cf2",
+    "faculty_name": "Prof. Sneha Dalvi",
+    "subject": "EVS Lab",
+    "department": "Information Technology",
+    "semester": "Semester III",
+    "division": "Division A",
+    "initials": "SD",
+    "created_at": "2026-10-11T17:47:50.000+00:00"
+  },
+  {
+    "id": "4327a50e-4ced-40e5-af1e-9eff51a505ae",
+    "faculty_name": "Prof. Sonal Jain",
+    "subject": "ED",
+    "department": "Information Technology",
+    "semester": "Semester III",
+    "division": "Division A",
+    "initials": "SJ",
+    "created_at": "2026-10-10T09:26:09.000+00:00"
+  },
+  {
+    "id": "039d9301-7595-463e-9e68-0f8ff423b4bf",
+    "faculty_name": "Prof. Vishal Badgujar",
+    "subject": "OE",
+    "department": "Information Technology",
+    "semester": "Semester III",
+    "division": "Division A",
+    "initials": "PVB",
+    "created_at": "2026-10-10T09:26:09.000+00:00"
+  },
+  {
+    "id": "3ffc5a2f-7fc4-4c0f-a1c4-86bc92c34c74",
+    "faculty_name": "Prof. Anupama Singh",
+    "subject": "OE",
+    "department": "Information Technology",
+    "semester": "Semester III",
+    "division": "Division B",
+    "initials": "AS",
+    "created_at": "2026-10-11T17:49:35.000+00:00"
+  },
+  {
+    "id": "50fb4a68-ba0f-4bcf-aaf1-b5a4635f3050",
+    "faculty_name": "Prof. Pranali Vohra",
+    "subject": "EVS",
+    "department": "Information Technology",
+    "semester": "Semester III",
+    "division": "Division B",
+    "initials": "PPV",
+    "created_at": "2026-10-10T09:26:09.000+00:00"
+  },
+  {
+    "id": "48a2e96c-47ae-4221-85ff-3fa620b4fc0e",
+    "faculty_name": "Prof. Randeep Kahlon",
+    "subject": "ED",
+    "department": "Information Technology",
+    "semester": "Semester III",
+    "division": "Division B",
+    "initials": "PRK",
+    "created_at": "2026-10-10T09:26:09.000+00:00"
+  },
+  {
+    "id": "185b595a-0117-4866-9a19-6e85b5b67930",
+    "faculty_name": "Prof. Sonia Aneesh",
+    "subject": "ADSA",
+    "department": "Information Technology",
+    "semester": "Semester III",
+    "division": "Division B",
+    "initials": "PSA",
+    "created_at": "2026-10-10T09:26:09.000+00:00"
+  },
+  {
+    "id": "269ac673-0114-4c39-86a1-2022ec001798",
+    "faculty_name": "Ms. Sujata Oak",
+    "subject": "IRS",
+    "department": "Information Technology",
+    "semester": "Semester VII",
+    "division": "Division C",
+    "initials": "SO",
+    "created_at": "2026-10-11T03:16:53.000+00:00"
+  },
+  {
+    "id": "f8b265aa-8db3-4904-af46-dd3f6f840815",
+    "faculty_name": "Prof. Nisha Jamkar",
+    "subject": "IOE",
+    "department": "Information Technology",
+    "semester": "Semester VII",
+    "division": "Division C",
+    "initials": "NJ",
+    "created_at": "2026-10-11T03:39:03.000+00:00"
+  }
+]
